@@ -29,5 +29,4 @@
 
 * Developers can include OSS contributions and/or being visible in the OSS community as an individual development goal, result goal or key result
 * Team managers can include OSS contributions as a key result, linking it to being a great place to work and/or contributing to the technical branding of Visma
-* Organize a Visma Talk: Summarizing this project, getting a few OSS enthusiasts in Visma sharing their story
 
