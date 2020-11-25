@@ -178,6 +178,10 @@ instead, you have to change the per-repository settings:
     git config user.email xzyzzy@example.com
 
 SourceTree and other graphical interfaces also let you change this.
+If you find that you have a lot of OSS repositories and don't want to
+set this for each one of them, [it's possible to set up a `.gitconfig` 
+that sets the commit email based on folder structure](https://phili.pe/posts/configuring-git-for-work/).
+
 If you forget to do this and create some commits, you can [change the
 author information on them afterwards with an interactive
 rebase](https://stackoverflow.com/questions/3042437/how-to-change-the-commit-author-for-one-specific-commit#3042512).
