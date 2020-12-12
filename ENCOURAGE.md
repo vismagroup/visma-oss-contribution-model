@@ -1,32 +1,15 @@
-# Why would a developer want to contribute to OSS?
+# How do developers benefit from participating in open source projects?
 
-## Practical
-* You are using OSS and found a bug or missing feature. You need to fix or improve it for your own purposes and might as well let other people benefit from the same work.
+* **Practical**: Developers may find a bug or missing feature when using open source software. Reporting a problem (or fixing it) or request a feature (or implementing it) allows the developer to achieve their goal and benefits others with a similar need.
+* **Professional**: OSS contributions are generally seen as a big positive sign by employers. It can be a sign of a person for whom development is not only a job, but a passion. Similarly, employers value people who are active, engaged and recognized in relevant communities. Developers are usually unable to share proprietary code they have worked on, but can instead build a public portfolio of OSS contributions to showcase their skills. Developers can also learn by receiving feedback on their code from others in the OSS community, while giving feedback on other people's code is an opportunity for developing coaching and mentoring skills.
+* **Ethical**: Many developers would like to give back / pay it forward since they are benefitting from OSS themselves. This view is also often applied to companies, not just individuals.
+* **Social**: Developers get to communicate and collaborate with skilled people who share some of their interests. It's fun!
 
-## Ethical
-* You are using OSS and benefitting from other people's work for free and would like to give back / pay it forward
+# How does Visma benefit from having developers participate in open source projects?
 
-## Professional
-* OSS contributions are generally seen as a big positive sign by employers. It is often a sign of a person for whom development is not only a job, but a passion.
-* You are normally unable to share code you have created for private companies, but you can build a public portfolio of OSS contributions to showcase your skills
-* Similarly, employers value people who are active, engaged and recognized in relevant communities
-* Getting feedback on your code from new people is another opportunity for learning, while giving feedback on other people's code is an opportunity for developing those coaching and mentoring skills
+* **Professional development**: Great developers can become bored if their environment doesn't change. Contributing to OSS is a nice change of pace for many. Developers may be inspired by seeing and experiencing different technologies and approaches than what they are used to.
+* **Employer branding**: When Visma employees are visible in the open source community, it shows that Visma values OSS and that Visma is a good place to work for developers who care about OSS
 
-## Social
-* You get to collaborate with skilled people who share some of your interests
-* It's fun!
+# How can we enable and encourage Visma employees to participate in open source projects?
 
-# Why is it good for Visma to have developers contribute to OSS?
-
-## Professional development
-* Great developers can become bored if their environment doesn't change. Contributing to OSS is a nice change of pace for many.
-* Developers may be inspired by seeing and experiencing different technologies and approaches than what they are used to
-
-## Branding
-* Shows that Visma values OSS and is a good place to work for developers who care about OSS
-
-# How to encourage contributions to OSS in Visma?
-
-* Developers can include OSS contributions and/or being visible in the OSS community as an individual development goal, result goal or key result
-* Team managers can include OSS contributions as a key result, linking it to being a great place to work and/or contributing to the technical branding of Visma
-
+* Managers and developers are encouraged to use participation in the OSS community as development goals, result goals and key results. They can be linked to bigger organizational goals like competence development, being a great place to work and strengthening Visma's employer brand.
